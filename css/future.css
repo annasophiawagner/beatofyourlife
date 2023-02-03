@@ -4,13 +4,13 @@
       font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
-      background-color: black;
+      background-color: rgb(10, 10, 10);
       color: white
     }
-
+    
     /* Header-Stil */
     header {
-      background-color:black;
+      background-color:rgb(10, 10, 10);
       color: #fff;
       padding: 2em;
       text-align: center;
@@ -38,10 +38,7 @@
       color: white;
     }
 
-    .software {
-      transform: scaleX(-1);
-    }
-
+    
     .menu { 
       float: center;
     }
@@ -57,13 +54,13 @@
 
     .textleft {
       margin-right: 4em;
-      margin-left: 5em;
+      margin-left: 10em;
       margin-top: 2em;
     }
 
     .textright {
       margin-left: 4em;
-      margin-right: 5em;
+      margin-right: 10em;
       margin-top: 2em;
     }
      /* Projekte-Container-Stil */
@@ -76,7 +73,7 @@
  
      /* Projekt-Stil */
      .project {
-       background-color: black;
+       background-color:  rgb(10 , 10, 10);
        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
        width: 50%;
        flex-direction: row;

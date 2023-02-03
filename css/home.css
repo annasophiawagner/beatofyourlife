@@ -4,13 +4,13 @@
       font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
-      background-color: black;
+      background-color: rgb(10, 10, 10);
       color: white
     }
     
     /* Header-Stil */
     header {
-      background-color:black;
+      background-color:rgb(10, 10, 10);
       color: #fff;
       padding: 2em;
       text-align: center;
@@ -35,6 +35,9 @@
       float: center;
     }
 
+    video {
+    }
+
 
     /* Projekte-Container-Stil */
     .project-container {
@@ -45,8 +48,7 @@
 
     /* Projekt-Stil */
     .project {
-      background-color: black;
-      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      background-color:  rgb(10 , 10, 10);
       width: 50%;
       flex-direction: row;
       align-items: center;
@@ -56,12 +58,12 @@
 
     .project img {
       width: 100%;
-      height: auto;
+      height: 100%;
     }
 
     img.titelimg {
       width: 100%;
-      height: auto;
+      height: 100%;
     }
 
     .logo {

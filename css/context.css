@@ -27,6 +27,17 @@
       color: #ff6a0e;
     }
 
+    a.context{
+      font-size: 12px;
+      color: #ff6a0e;
+      text-decoration: none;
+      margin: 0.5em;
+    }
+
+    a.context:hover{
+      color: white;
+    }
+
     .menu { 
       float: center;
     }

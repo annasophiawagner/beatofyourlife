@@ -143,3 +143,13 @@
       -webkit-transform: scale(0.8);
       transform: scale(0.8);
     }
+
+    footer {
+      padding: 2em;
+    }
+
+    .footertxt {
+      text-align: center;
+      color: white;
+      font-size: 10px
+    }

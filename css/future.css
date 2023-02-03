@@ -92,3 +92,14 @@
        width: 100%;
        height: auto;
      }
+
+     footer {
+      padding: 2em;
+    }
+
+    .footertxt {
+      text-align: center;
+      color: white;
+      font-size: 10px
+    }
+
